@@ -1,0 +1,10 @@
+torch>=2.0
+torchvision
+numpy
+Pillow
+opencv-python
+scipy
+insightface
+onnxruntime-gpu  # use 'onnxruntime' if you don’t want GPU support
+facenet-pytorch
+tqdm
